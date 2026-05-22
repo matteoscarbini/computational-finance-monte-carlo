@@ -26,6 +26,7 @@ All trajectory generators are validated via martingale tests. Monte Carlo errors
 ├── Ex1.ipynb        # ABS pricing notebook
 ├── Ex2.ipynb        # Path-dependent options notebook
 ├── library.py       # Custom pricing library (trajectory generators, MC engine)
+├── Report_Computational_Scarbini.pdf   # Full project report with results and analysis
 └── README.md
 ```
  
